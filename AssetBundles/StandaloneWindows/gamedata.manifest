@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3138530550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82303ef0fdaedfea0cf10377d8c5ac71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 264a6961a5db001957e6996ad8c4404c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 82303ef0fdaedfea0cf10377d8c5ac71
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 904783aceffaa9b409be83ad2454bc25, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f8da89efe05f304fbd8f478eac79d8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbacf37445fa8e442b1b7aa3f7185e6f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprite/Item/Weapon/Watering.asset
+- Assets/Sprite/Item/Weapon/FishingRod.asset
+- Assets/Sprite/Item/Weapon/Bow.asset
+- Assets/Sprite/Item/Weapon/Hammer.asset
+- Assets/Sprite/Item/Resources/Wood.asset
+- Assets/Sprite/Item/Weapon/Sword.asset
+- Assets/Sprite/Item/Weapon/Axe.asset
+- Assets/Sprite/Item/Weapon/Hoe.asset
+Dependencies: []

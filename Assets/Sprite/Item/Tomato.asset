@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43c7ddc3e6197d4c888410084259255, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  <ItemName>k__BackingField: Tomato
+  <Icon>k__BackingField: {fileID: -1396305148, guid: 1cad3f7cafe34114dbf8ec56925aa52d, type: 3}
+  <IsStackable>k__BackingField: 1
+  <MaxStack>k__BackingField: 99
+  CanConsume: 1
+  Description: 
+  <Price>k__BackingField: 10
+  modifierData:
+  - statModifier: {fileID: 11400000, guid: d1989aab70ae54e49a775885fa8594a6, type: 2}
+    value: 5
+  - statModifier: {fileID: 11400000, guid: bca5b64c97f11494c9b3811cf6393c2b, type: 2}
+    value: 10
+  <actionSFX>k__BackingField: {fileID: 0}

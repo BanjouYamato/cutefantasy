@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee6143d20ec40c4d9dc6045f49e46af, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyScriptable
+  hp: 3
+  bodyDamage: 1
+  attackDamage: 0
+  animName: Skeleton
+  duration: 0
+  normalSpeed: 2.5
+  detectRange: 5
+  attackRange: 0
+  cooldownAttack: 0

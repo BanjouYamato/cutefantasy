@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &756155613788120777
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 277248822104916265}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &277248822104916265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 756155613788120777}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.3999989, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6743995668344619526}
+  - {fileID: 6254085504181601433}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5390389318620086648
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6743995668344619526}
+  - component: {fileID: 8939683177067421255}
+  m_Layer: 0
+  m_Name: UIInventory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6743995668344619526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5390389318620086648}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 277248822104916265}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8939683177067421255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5390389318620086648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a9096e917976642a42723d0b19dc46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryPage: {fileID: 0}
+  inventoryData: {fileID: 11400000, guid: 5028329d41d97d7438d4c0ab03a17bb1, type: 2}
+  initialItems:
+  - quantity: 1
+    item: {fileID: 11400000, guid: c89ca1b605878924590ab9c7dccb97b4, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: cd620ca222c169b4da26cd84eaa93867, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 860507e44535f1d409f68411f1796010, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 6516be37583c8cd40a5333341bbc6175, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 7aa50223068137c46978fbc6757a8cf6, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 00e1a7e5eabad89498f571fcf046cf83, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: f31ee56b76a61c547843df808a160d16, type: 2}
+  - quantity: 20
+    item: {fileID: 11400000, guid: 37f7e0d2fb97d844287725430785282e, type: 2}
+  dropClip: {fileID: 0}
+  audioSource: {fileID: 0}
+--- !u!1 &5417885856322305385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6254085504181601433}
+  - component: {fileID: 3261523112840556105}
+  m_Layer: 0
+  m_Name: UIShop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6254085504181601433
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5417885856322305385}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 277248822104916265}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3261523112840556105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5417885856322305385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 644839fcba7374c4fa967e57a2b45bf7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uIShop: {fileID: 0}
+  itemCanBuy:
+  - {fileID: 11400000, guid: 37f7e0d2fb97d844287725430785282e, type: 2}
+  - {fileID: 11400000, guid: 6516be37583c8cd40a5333341bbc6175, type: 2}
+  - {fileID: 11400000, guid: 00e1a7e5eabad89498f571fcf046cf83, type: 2}
+  - {fileID: 11400000, guid: f31ee56b76a61c547843df808a160d16, type: 2}
+  - {fileID: 11400000, guid: 7aa50223068137c46978fbc6757a8cf6, type: 2}
+  inventoryData: {fileID: 11400000, guid: 5028329d41d97d7438d4c0ab03a17bb1, type: 2}

@@ -1,0 +1,3814 @@
+fileFormatVersion: 2
+guid: bc75158976fd55d47b38e79bdc187da4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MageTiny_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d103987a52f00647b17c5bb2f8e6592
+      internalID: -962549245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f15d937e46f344990d5cfa34494bb2
+      internalID: 43840133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1bd41c5d56cd34186bb46981bfdb38
+      internalID: -1811379708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 197
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b410df45839a0248b4d8c2929838ea2
+      internalID: -1065485774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 197
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430f8249394069a4bb44cb890de32644
+      internalID: 1905124320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af15ca38522c27047a7262f441173cb1
+      internalID: 1890693384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 197
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0311d902f461c4dabd3e807f56235f
+      internalID: -451639422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 197
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecfaf91c7d493c4390410bd72dfa597
+      internalID: 762722513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 197
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228c0753e6876347a893ff5f6070e49
+      internalID: -438286707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc12b0839d3d3d740bead40820b51855
+      internalID: -1509790270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 197
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262fa0ff255416e4c81f00acff89f90b
+      internalID: -1622244405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 197
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae3becacf2170438b06906bb460255
+      internalID: -1797195074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 197
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf542540eba2302439259cd680c2280e
+      internalID: -1826619634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 196
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c7862f27909445acfac10216931ba
+      internalID: -1136028503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 197
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e021cb22b369914190715623f0b1ae3
+      internalID: 229083136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 197
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab72950aecd3c68419b9f837c13045c2
+      internalID: -433148443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 197
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5365f37bd444f4589f2d6049dcdea8
+      internalID: -1365474549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 197
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da021671ad65248429e49ebc7b282a80
+      internalID: 280672534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 197
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9b2ccd396e6240948b3b88e3cf3ce
+      internalID: 1933868792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 196
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81393cc629047af4599326d2f65457d2
+      internalID: 1616777764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 197
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb1f3d10c80ae4c97169a92df399bf
+      internalID: 2097098090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 198
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae993c57834e5ba42acdcf26b3d28f39
+      internalID: 11519179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 198
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0638adde9070324bb661f5f08aa8df2
+      internalID: -1342607824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 198
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b40d61c914fc4682bfc4b370e21e2
+      internalID: -937380419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_24
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 198
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c641ed1bda25d458f78ab0ca1dac23
+      internalID: -629602650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 198
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e6ee91ad6e8245a35df8d2ee9cd61
+      internalID: 941278824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 162
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8730bf49b4e91f04c84e764454c6d632
+      internalID: -1087477190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eee9394a0f7ec4690a77b6431a99c8
+      internalID: 1302369492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 163
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9865110080d7459382db44eff0ed8
+      internalID: 291527577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 163
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9069cc80af4924991b89c244f56c1c
+      internalID: -554889331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 164
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9660586dda7fe42b758fe577a03d13
+      internalID: -1619829472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8c57a204d67a4383998449d62a25d
+      internalID: -1192617898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ba1edccb393c4cbf0acaac06e5707
+      internalID: 781875242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 164
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188097295a415e4c9de85b8b3df42d0
+      internalID: 1190205107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 162
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e6a7d781b79f247b81ba48009e46bb
+      internalID: 1535342321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 163
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e902fed55ee8934ab48cd3b50bda1f5
+      internalID: -1867523645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c7d39969b483479a16abd835d0af3
+      internalID: -1693310863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_37
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 163
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29e0312ef1db14fbf79fd54bfa9e94
+      internalID: -1639667509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 163
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237587193205dd54aa3ab257cd4e77eb
+      internalID: 1370248687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_39
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 163
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef3941f6d4f684b936f0313c94e521
+      internalID: 1874380732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 163
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d1b1e73abc6140bdfc9ef64337340
+      internalID: -446308867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 163
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e970423ea792439912c2243df5de0
+      internalID: -471030996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_42
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 163
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f27fac4ed02d441a6e3b6428f87367
+      internalID: 1750368708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_43
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 163
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd66b14f45228f4fb62599f3a4ea65f
+      internalID: 1997182359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_44
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 163
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0a1348623e2ef48bda942d525b468b
+      internalID: 1561436057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_45
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 163
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7ca257970aae40bab9a40c5bbaebe
+      internalID: -1133087750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_46
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 163
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4f89e5a17856f4a82aa919350d84d3
+      internalID: 709263028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_47
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 163
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb58e70f8be08458942a1d83241928
+      internalID: 444909539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9dfb58debacf24d95496872c986043
+      internalID: -1823465213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89e465d5493ba499a84dde43680c4b
+      internalID: 431381805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b663d702276c7648a26badb5b862f7a
+      internalID: 1078736034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944cd1b8f129d046ac71eb4b1cfee5d
+      internalID: -1468934348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 130
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851d4010fde8278448766e29452aece7
+      internalID: 844955815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 129
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6643cdb1e576428d712843fbecf92
+      internalID: 687001583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 150
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02b3c6a3e9b2b4d9564fa3a208f378
+      internalID: 315839041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 150
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42000f5e9c3ea42b1a33cc2869bd72
+      internalID: 1681262092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 150
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d0450849ec4546a3e2a5782da52d6
+      internalID: 1225356217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a22687934e4b84d8b06295e3a5b9d9
+      internalID: 1068658817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_58
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 129
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f4664fc1f97f45b74dbfd6049afb4
+      internalID: 839659757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_59
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 129
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af281b65e03ff4abd1f24221c26df7
+      internalID: 371414784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_60
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 129
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48dd9fef4cedf458ad2fb36f8c631a
+      internalID: -797442989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_61
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 129
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbc7ea77ff683d4f9441583f7ae2981
+      internalID: 1650238504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_62
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 129
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872f1c8c3ad8b84db53c0d33d4d9fec
+      internalID: 1834277797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_63
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 129
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265eb9a2d735d584ba5a8c9135861653
+      internalID: -655491741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_64
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 129
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61049dfe517c55d429d85f392e3d99b4
+      internalID: -1999161957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_65
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 129
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2568f258b1905242aba38fe77c2d6cb
+      internalID: 907212654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9406f3ced7fb294cbb422f513ddabd5
+      internalID: 1618078540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 116
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5809bc5486e11644bad4ebe7fb5368e
+      internalID: 1876199253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_68
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5e47c9e82b7b41877af6608410879
+      internalID: 538047481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 115
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678b2e3dd59fbb6459672449cee96ebd
+      internalID: 1578508998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb253a2628b1e646a245ac10685521f
+      internalID: -346515313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97934594fd3861a4497a37e7dd65ccb8
+      internalID: -2056905037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_72
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231c10006ebec042980863decfe7400
+      internalID: -391934734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 116
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51fd1d032a136409d1061c2885031b
+      internalID: -81719239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_74
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 116
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39669f36673fb4694034a62ed7c5c2
+      internalID: -880356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 116
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd71e74f577fa4aa916363585920ac
+      internalID: -1257090682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 116
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab878abdbaa202f4b8760f7fde5ffe47
+      internalID: -2126791845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 115
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe64696be770d543a9fd5b5dcdd9be4
+      internalID: -152963671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_78
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 115
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203063e1c5e322146b8f511dfe3b0dd0
+      internalID: -255062729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 116
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0c4ae843544d4b985001e687e13be
+      internalID: -1876864437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_80
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 94
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237fe6b31e7fc8446a2c68bf4fdd3eb0
+      internalID: 563310273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 94
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad8ce3ffce1d146a19bcfab45a578a
+      internalID: 701755365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_82
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 94
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23486bb2ab5feae48ba782ceb60e75e7
+      internalID: -956884413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_83
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 94
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834c6e83b0bb9845a8298a8bfd2b50a
+      internalID: -1462735016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_84
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 95
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289e2a9e3597034184b904bccc81b5a
+      internalID: -183107308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_85
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 95
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50834c30235d747a4de4487c3bcfb2
+      internalID: 905490757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_86
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 95
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf2bac204c73045816e0344777a3f2
+      internalID: -579972865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_87
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 95
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f392aed85c8f498cb6853fc15692c
+      internalID: 326058829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf6487ee9bfe794699aea114a701c20
+      internalID: -1922544356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7351e66baf303b44ac7603dfef2e79f
+      internalID: -1755029809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 81
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c9592d581e39c4aab8a69c912d3d82
+      internalID: -1730909181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 81
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55de19f01a0d48e478cdd463534274d5
+      internalID: -1453051266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 81
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca7763c70aa6d74ba119ed5842eb774
+      internalID: 2110586013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637aba110386304f853f561d92ca1d8
+      internalID: 15538512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 81
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664153427db30ee468c4d44482ef96bf
+      internalID: 648443375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 81
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a322982fac38488c54e86977a60e2
+      internalID: 8704099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 81
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df18bb470f5fa8341b002908aaf9032a
+      internalID: 1544434686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 81
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ba5c55cf4fe54799fb496d85e22fb
+      internalID: 1408551398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 81
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6b0eeae944264d898231ef620769c
+      internalID: 604344965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_99
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 82
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac9a8aec8d7a8469c6fe71320a1fbd
+      internalID: -1442409791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_100
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f8ce0535c9bf4c98feb50ecdb82c2
+      internalID: -1272560512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048854c4a53a9642aaf6a59fb023f41
+      internalID: 1711175412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f2e62227feb748aa2956f2f5991ea
+      internalID: 2051996686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_103
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c790b28f21e219841bddbe7b9955b915
+      internalID: 1031459858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048e8e7cea7a144ba107108f1560a44
+      internalID: 901575046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_105
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e1c983abfd8b4899cfd7876fe949f
+      internalID: -300729557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_106
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30871b57ed5515e40af248d1dd2cf3b5
+      internalID: -553183204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_107
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 82
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df970e05a970bcb448a37c6bfeefc25c
+      internalID: 1724660968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 82
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8b425c3353f447a6b11eb70e72843
+      internalID: -1781090987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_109
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9535f0e541e9d294697d378d3bcddc39
+      internalID: -2032537476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_110
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 82
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d92182117c85439b5b7dd6e52df4e
+      internalID: -716694387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_111
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 82
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6f178e0fe6c341a1aa5e60a5f8185
+      internalID: 410049287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 82
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb4d99077bea74ca07bf93cc1bfa61
+      internalID: -1836583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f207874830954a82b4fd25001f49c
+      internalID: 1139683019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_114
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363dbfce25792b4ba460dc9c6647ea3
+      internalID: 2116389586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_115
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bbbf8b5009dbd4baac7eacf051c2c2
+      internalID: -306346184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_116
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d1eba3800ac24398bd9adff94032a
+      internalID: 1599094835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_117
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 49
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd21b11e5abcf44bb3e3c9c991feed6
+      internalID: 882880438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_118
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 49
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8a4220a7547546b1c227a5aa9ee5e
+      internalID: 1545856634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b225c24ef4c3e48892f9a3d73b49a7
+      internalID: 541089112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_120
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 48
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ddb0c390431ff4ab90479a6bc0118a
+      internalID: -863712103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_121
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 49
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7e4010fa70aa499511d7a8b5c493f
+      internalID: -30700670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_122
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 49
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb656780b4a6c48909a9703d9f3199
+      internalID: 422425231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_123
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 49
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09e94f9325ff248b8229cd752426ec
+      internalID: -763640809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_124
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 71
+        width: 120
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d3003a908c3f4a85f3d1203e7c8ff
+      internalID: 362284352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_125
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 59
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81533eda9596cad4bb899e1a4b3d0cf2
+      internalID: -1317553302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_126
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 59
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5602a1e795504c9e79ad9898485b6
+      internalID: 2122781945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_127
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 59
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e757ae9f0d0248876fc54256deb87
+      internalID: -30973752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_128
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 59
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f25ee7fdac23842b3fd8d65d5a1f15
+      internalID: -1821753114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_129
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 59
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e0b1efd075114478af5192f7bacb26
+      internalID: 697147552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_130
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 59
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3fcaec99391449b0fa05c9fe4d526
+      internalID: -1794106027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_131
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 59
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e60f94aa95c2448cc88925146e236
+      internalID: -412184090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_132
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 59
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2917318d0bf0541bc4c08191871379
+      internalID: 1135988263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_133
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 59
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3776f63f27de4a8e09cbe77d36400
+      internalID: -155581145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_134
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacea3a21585da14e9e247c9fe700804
+      internalID: -200735420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_135
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 36
+        width: 224
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39936fd7a0fb3f24b815348a16e35099
+      internalID: -1394859573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_136
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 48
+        width: 120
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a064bf15c7ebe42be27921e9eff47b
+      internalID: 39142412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad8d9e0141976744a2d554405e1916c
+      internalID: -272689778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68145023a20ec5a41a2467c750e7fb13
+      internalID: -1257469132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_139
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e063ea148c2d54e971bc87aa4ce2e2
+      internalID: 1114824495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_140
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f695237c03e9bbd45a9185b0b2318e9f
+      internalID: 996415873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_141
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 36
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d423e1db128e34195e0899df832ed3
+      internalID: -1491824624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_142
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76501b41e49439442a19c791b795d78a
+      internalID: -1603087156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_143
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7947ee400c2a4da4a26bb6391f5e1
+      internalID: 1679550024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_144
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5efea5b42cf9d458313b7af28baa4c
+      internalID: 489250687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_145
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bea00fd676d9f46b3537be3552adc0
+      internalID: 1852660947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 16
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b16ce1fd9176b43885ce2cc349fafb
+      internalID: 1192010823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_147
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9e4e20ff2943488612fc0cd6c9b06
+      internalID: 1114451926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_148
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633996adf48ba4458195d2b87223c1b
+      internalID: 1412689527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_149
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 48
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febdec169ab90d04faf6c53e6e8640b0
+      internalID: 1897710383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_150
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216e4b356498ac4cb09a5bf039ea178
+      internalID: -127360720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_151
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e19bf30e15e144e9de03bb38babc8a
+      internalID: 1711200877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_152
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116741f5cb7fd440ba8248ba39f3159
+      internalID: -1773967219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_153
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b7d1879483294d8bb178b9a341331
+      internalID: 899511193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_154
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10482486100af64fbca643c71fa3b19
+      internalID: -769621867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_155
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a76946f8642384ebf6b069172cabda
+      internalID: -1742281320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_156
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9533a871073e74aac852fa2ff9b5fd
+      internalID: 683937940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_157
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d829b4af59836498afee2a50e41741
+      internalID: 1618007045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_158
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75acbb123518d843aa088529e22c55e
+      internalID: -1225025432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_159
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73676b010e685104f9a2b02ecab60b3f
+      internalID: -1753306276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_160
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c977395e49894cac0751d8430d657
+      internalID: -506319109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_161
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8e4061d7d6814fb6383befef1a8d9
+      internalID: -2113232389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_162
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509225ba3b563f84e85018acb0580ba0
+      internalID: -2061271937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_163
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfca66faa556041b857c4a5be7497f
+      internalID: 670682502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_164
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8673423b134c1046a557214d9d97b68
+      internalID: -1932664130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_165
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9436cc5e841b90747a6526ca18aef89c
+      internalID: -859567641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageTiny_166
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82571d4c729dd47b1e51ff858493b2
+      internalID: 486110004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MageTiny_0: -962549245
+      MageTiny_1: 43840133
+      MageTiny_10: -1622244405
+      MageTiny_100: -1272560512
+      MageTiny_101: 1711175412
+      MageTiny_102: 2051996686
+      MageTiny_103: 1031459858
+      MageTiny_104: 901575046
+      MageTiny_105: -300729557
+      MageTiny_106: -553183204
+      MageTiny_107: 1724660968
+      MageTiny_108: -1781090987
+      MageTiny_109: -2032537476
+      MageTiny_11: -1797195074
+      MageTiny_110: -716694387
+      MageTiny_111: 410049287
+      MageTiny_112: -1836583754
+      MageTiny_113: 1139683019
+      MageTiny_114: 2116389586
+      MageTiny_115: -306346184
+      MageTiny_116: 1599094835
+      MageTiny_117: 882880438
+      MageTiny_118: 1545856634
+      MageTiny_119: 541089112
+      MageTiny_12: -1826619634
+      MageTiny_120: -863712103
+      MageTiny_121: -30700670
+      MageTiny_122: 422425231
+      MageTiny_123: -763640809
+      MageTiny_124: 362284352
+      MageTiny_125: -1317553302
+      MageTiny_126: 2122781945
+      MageTiny_127: -30973752
+      MageTiny_128: -1821753114
+      MageTiny_129: 697147552
+      MageTiny_13: -1136028503
+      MageTiny_130: -1794106027
+      MageTiny_131: -412184090
+      MageTiny_132: 1135988263
+      MageTiny_133: -155581145
+      MageTiny_134: -200735420
+      MageTiny_135: -1394859573
+      MageTiny_136: 39142412
+      MageTiny_137: -272689778
+      MageTiny_138: -1257469132
+      MageTiny_139: 1114824495
+      MageTiny_14: 229083136
+      MageTiny_140: 996415873
+      MageTiny_141: -1491824624
+      MageTiny_142: -1603087156
+      MageTiny_143: 1679550024
+      MageTiny_144: 489250687
+      MageTiny_145: 1852660947
+      MageTiny_146: 1192010823
+      MageTiny_147: 1114451926
+      MageTiny_148: 1412689527
+      MageTiny_149: 1897710383
+      MageTiny_15: -433148443
+      MageTiny_150: -127360720
+      MageTiny_151: 1711200877
+      MageTiny_152: -1773967219
+      MageTiny_153: 899511193
+      MageTiny_154: -769621867
+      MageTiny_155: -1742281320
+      MageTiny_156: 683937940
+      MageTiny_157: 1618007045
+      MageTiny_158: -1225025432
+      MageTiny_159: -1753306276
+      MageTiny_16: -1365474549
+      MageTiny_160: -506319109
+      MageTiny_161: -2113232389
+      MageTiny_162: -2061271937
+      MageTiny_163: 670682502
+      MageTiny_164: -1932664130
+      MageTiny_165: -859567641
+      MageTiny_166: 486110004
+      MageTiny_17: 280672534
+      MageTiny_18: 1933868792
+      MageTiny_19: 1616777764
+      MageTiny_2: -1811379708
+      MageTiny_20: 2097098090
+      MageTiny_21: 11519179
+      MageTiny_22: -1342607824
+      MageTiny_23: -937380419
+      MageTiny_24: -629602650
+      MageTiny_25: 941278824
+      MageTiny_26: -1087477190
+      MageTiny_27: 1302369492
+      MageTiny_28: 291527577
+      MageTiny_29: -554889331
+      MageTiny_3: -1065485774
+      MageTiny_30: -1619829472
+      MageTiny_31: -1192617898
+      MageTiny_32: 781875242
+      MageTiny_33: 1190205107
+      MageTiny_34: 1535342321
+      MageTiny_35: -1867523645
+      MageTiny_36: -1693310863
+      MageTiny_37: -1639667509
+      MageTiny_38: 1370248687
+      MageTiny_39: 1874380732
+      MageTiny_4: 1905124320
+      MageTiny_40: -446308867
+      MageTiny_41: -471030996
+      MageTiny_42: 1750368708
+      MageTiny_43: 1997182359
+      MageTiny_44: 1561436057
+      MageTiny_45: -1133087750
+      MageTiny_46: 709263028
+      MageTiny_47: 444909539
+      MageTiny_48: -1823465213
+      MageTiny_49: 431381805
+      MageTiny_5: 1890693384
+      MageTiny_50: 1078736034
+      MageTiny_51: -1468934348
+      MageTiny_52: 844955815
+      MageTiny_53: 687001583
+      MageTiny_54: 315839041
+      MageTiny_55: 1681262092
+      MageTiny_56: 1225356217
+      MageTiny_57: 1068658817
+      MageTiny_58: 839659757
+      MageTiny_59: 371414784
+      MageTiny_6: -451639422
+      MageTiny_60: -797442989
+      MageTiny_61: 1650238504
+      MageTiny_62: 1834277797
+      MageTiny_63: -655491741
+      MageTiny_64: -1999161957
+      MageTiny_65: 907212654
+      MageTiny_66: 1618078540
+      MageTiny_67: 1876199253
+      MageTiny_68: 538047481
+      MageTiny_69: 1578508998
+      MageTiny_7: 762722513
+      MageTiny_70: -346515313
+      MageTiny_71: -2056905037
+      MageTiny_72: -391934734
+      MageTiny_73: -81719239
+      MageTiny_74: -880356
+      MageTiny_75: -1257090682
+      MageTiny_76: -2126791845
+      MageTiny_77: -152963671
+      MageTiny_78: -255062729
+      MageTiny_79: -1876864437
+      MageTiny_8: -438286707
+      MageTiny_80: 563310273
+      MageTiny_81: 701755365
+      MageTiny_82: -956884413
+      MageTiny_83: -1462735016
+      MageTiny_84: -183107308
+      MageTiny_85: 905490757
+      MageTiny_86: -579972865
+      MageTiny_87: 326058829
+      MageTiny_88: -1922544356
+      MageTiny_89: -1755029809
+      MageTiny_9: -1509790270
+      MageTiny_90: -1730909181
+      MageTiny_91: -1453051266
+      MageTiny_92: 2110586013
+      MageTiny_93: 15538512
+      MageTiny_94: 648443375
+      MageTiny_95: 8704099
+      MageTiny_96: 1544434686
+      MageTiny_97: 1408551398
+      MageTiny_98: 604344965
+      MageTiny_99: -1442409791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

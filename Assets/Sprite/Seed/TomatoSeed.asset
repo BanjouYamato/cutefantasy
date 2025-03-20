@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96764cd31eabc7d4ba3cd1716e6bca11, type: 3}
+  m_Name: TomatoSeed
+  m_EditorClassIdentifier: 
+  <ItemName>k__BackingField: TomatoSeed
+  <Icon>k__BackingField: {fileID: 435307690, guid: 26a649bc81a059044ba57a5acf2c6a24, type: 3}
+  <IsStackable>k__BackingField: 1
+  <MaxStack>k__BackingField: 99
+  CanConsume: 0
+  Description: 
+  <Price>k__BackingField: 2
+  <actionSFX>k__BackingField: {fileID: 0}
+  PickUpItem: {fileID: 11400000, guid: 37f7e0d2fb97d844287725430785282e, type: 2}
+  seedSprite: {fileID: 8360707562835683283, guid: 44bec624bd4cd6748bcce5be04cc6822, type: 3}
+  growStages:
+  - {fileID: -947315168, guid: 26a649bc81a059044ba57a5acf2c6a24, type: 3}
+  - {fileID: 1353874958, guid: 26a649bc81a059044ba57a5acf2c6a24, type: 3}
+  - {fileID: -589576044, guid: 26a649bc81a059044ba57a5acf2c6a24, type: 3}
+  - {fileID: 1522814678, guid: 26a649bc81a059044ba57a5acf2c6a24, type: 3}
+  - {fileID: -488689483, guid: 26a649bc81a059044ba57a5acf2c6a24, type: 3}
+  GrowthTime: 10
+  DehydrateTime: 30
+  pickUpItem: {fileID: 11400000, guid: 37f7e0d2fb97d844287725430785282e, type: 2}

@@ -1,6 +1,4 @@
-using BehaviorDesigner.Runtime.Tasks.Unity.Math;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 

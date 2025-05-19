@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 1e0f0c0204b63fc409f9974d2ba7a2a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 297
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432bf0cbdc674340bf219adab6c31c6
+      internalID: -1080932071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 213
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c65d8b9cc0e542bbb3da7b521d782
+      internalID: 935355885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 150
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4d55e70f0ce24b898f3cd23d27a02
+      internalID: -1848142469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab6a0e4a835a741bb3161ae1a83cbe
+      internalID: 1863665067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 297
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b0ce75ecada24f83b5b032896f832
+      internalID: -1516350790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab0ff20282e44408439db7556e1f0b
+      internalID: 1564077650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 213
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b70aeb4c6f1de448fa89ceaa92e2b7
+      internalID: -1217195028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 213
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a173646bb8ec22439ed9eb3a8f2c1e6
+      internalID: -164499193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a76fa6148a0424ab86b3a0802330ca
+      internalID: 1127198300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 150
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c82a96f97992a42b319c722cc00c7d
+      internalID: -2030027622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9f18e0ec9a5544b4f940641f54366
+      internalID: 1531774110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 66
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f376da76a0262794a947fbc9e979ce5c
+      internalID: 931947373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 283
+        width: 15
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8e139b827fcb4ea5fd3bbe4f846bd
+      internalID: -1454677434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 270
+        width: 14
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4ed3402e4cd444b2fd5361f9c7d57
+      internalID: -252900385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 211
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724e981badf7f44185f952692a1ed8a
+      internalID: 158576140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 213
+        width: 14
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da456fa0a2f6d9f4c9ba7d8186c344da
+      internalID: 1525635255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 150
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a82fe7ade93c42b7add0c555d67ef
+      internalID: 800545490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 129
+        width: 42
+        height: 16
+      alignment: 9
+      pivot: {x: 0.1904762, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16374db17adf55f47949a36f793f198c
+      internalID: -1585303354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 66
+        width: 31
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6451613, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df523eda7c50234189bf20b4b633c44
+      internalID: 1266234338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 45
+        width: 41
+        height: 16
+      alignment: 9
+      pivot: {x: 0.80487806, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d6599d2900f424eba8206318324633
+      internalID: -892939690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 293
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eadcbb1e9c03fc49b7bbf1e105fe22e
+      internalID: 533120570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 293
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882aab9febcaec94eab81c8ad351ce1b
+      internalID: 1696718605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 213
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943c4b778594a04ca62806ce923d0d9
+      internalID: -1858553525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 213
+        width: 15
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb85c235f26c34a95fdc3f992970c9
+      internalID: 217399205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 148
+        width: 13
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ea6ac2389182e46bd941df6386b7fc
+      internalID: 393611729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 148
+        width: 14
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72afcb8d8ddb324b8893c142edd09bf
+      internalID: 707921003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 62
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dcfec61c066de49a98abef88b2ce2a
+      internalID: -950266675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 62
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ec230c99c0984dbfccb382c5d3652
+      internalID: 1039563689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_0: -1080932071
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_1: 935355885
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_10: 1531774110
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_11: 931947373
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_12: -1454677434
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_13: -252900385
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_14: 158576140
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_15: 1525635255
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_16: 800545490
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_17: -1585303354
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_18: 1266234338
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_19: -892939690
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_2: -1848142469
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_20: 533120570
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_21: 1696718605
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_22: -1858553525
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_23: 217399205
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_24: 393611729
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_25: 707921003
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_26: -950266675
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_27: 1039563689
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_3: 1863665067
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_4: -1516350790
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_5: 1564077650
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_6: -1217195028
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_7: -164499193
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_8: 1127198300
+      Custom Edited - Final Fantasy 7 Customs - Cid Zelda-Style (1)_9: -2030027622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -170,6 +170,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (3)
@@ -232,6 +236,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (2)
@@ -300,7 +308,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1291,6 +1299,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (13)
@@ -1353,6 +1365,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (16)
@@ -1415,6 +1431,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (5)
@@ -1477,6 +1497,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (4)
@@ -1539,6 +1563,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (6)
@@ -1606,7 +1634,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4897,6 +4925,88 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &744775764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 744775765}
+  - component: {fileID: 744775766}
+  m_Layer: 0
+  m_Name: Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &744775765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744775764}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1590730515}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &744775766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744775764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_LightType: 4
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.5
+  m_Color: {r: 0.60608757, g: 0.85660374, b: 0.63942593, a: 1}
+  m_Intensity: 0.8
+  m_LightVolumeIntensity: 1
+  m_LightVolumeIntensityEnabled: 0
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 2
+  m_UseNormalMap: 0
+  m_ShadowIntensityEnabled: 0
+  m_ShadowIntensity: 0.75
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 360
+  m_PointLightOuterAngle: 360
+  m_PointLightInnerRadius: 0
+  m_PointLightOuterRadius: 1
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1001 &935170182
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4945,6 +5055,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (10)
@@ -5007,6 +5121,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (14)
@@ -5069,6 +5187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (15)
@@ -5131,6 +5253,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (12)
@@ -5193,6 +5319,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (8)
@@ -5255,6 +5385,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree
@@ -5317,6 +5451,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (1)
@@ -5331,6 +5469,38 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5493122500765753154, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
   m_PrefabInstance: {fileID: 1494307588}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1590730514
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1590730515}
+  m_Layer: 0
+  m_Name: Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1590730515
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590730514}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.3608508, y: 3.0863376, z: 0.00067500066}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 744775765}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1622046658
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5379,6 +5549,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (11)
@@ -5463,6 +5637,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3327293961978133763, guid: 1ccdbb8632437f048960f47586fabc6a, type: 3}
   m_PrefabInstance: {fileID: 1674582887}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1674582889 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1735120970202564229, guid: 1ccdbb8632437f048960f47586fabc6a, type: 3}
+  m_PrefabInstance: {fileID: 1674582887}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c90b5a8f8eb1d0341bcfd58629bca84e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1688011156
 GameObject:
   m_ObjectHideFlags: 0
@@ -5684,6 +5869,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (9)
@@ -5746,6 +5935,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (7)
@@ -5760,6 +5953,51 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5493122500765753154, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
   m_PrefabInstance: {fileID: 1960963125}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1987008329
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1987008331}
+  - component: {fileID: 1987008330}
+  m_Layer: 0
+  m_Name: PartnerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1987008330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1987008329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1de126e025228f4ca89faa5ba08b907, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _player: {fileID: 1674582889}
+--- !u!4 &1987008331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1987008329}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -31.495676, y: -9.995789, z: -0.026868882}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2031500494
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5808,6 +6046,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5919275761961487352, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 7568003517626334424, guid: 493c4f508ed4c524fbab09b783cb536f, type: 3}
       propertyPath: m_Name
       value: Oak_Tree (17)
@@ -5875,7 +6117,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12411,3 +12653,5 @@ SceneRoots:
   - {fileID: 7367899435861934996}
   - {fileID: 245379561341958234}
   - {fileID: 1674582887}
+  - {fileID: 1987008331}
+  - {fileID: 1590730515}

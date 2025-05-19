@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "ResourcableItem", menuName = "Inventory/Item/ResourcableItem")]
 public class ResourcableItemSO : ItemScriptable, IDestroyableItem
 {
     [Range(0f, 1f)]   

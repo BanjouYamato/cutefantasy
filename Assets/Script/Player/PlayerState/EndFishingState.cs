@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 public class EndFishingState : ThrowFishRod
 {
     public EndFishingState(PlayerControler controler, Direction direction) 

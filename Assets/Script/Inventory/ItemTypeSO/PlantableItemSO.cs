@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "PlantableItem", menuName = "Inventory/Item/PlantableItem")]
 public class PlantableItemSO : ItemScriptable, IDestroyableItem, IItemAction
 {
     public string ActionName => "Seeds";

@@ -355,6 +355,7 @@ MonoBehaviour:
   runTimeData: {fileID: 11400000, guid: 79740764ecfca2a4eabc631309616284, type: 2}
   isMainMapScene: 0
   bossStatus: 
+  partnerTraveler: []
   loadedSceneList: []
 --- !u!4 &439728344
 Transform:
@@ -500,11 +501,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6913732756590740306, guid: a6c4658d4d7e721449cc7851bf6b2e13, type: 3}
       propertyPath: mapScenes.Array.size
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6913732756590740306, guid: a6c4658d4d7e721449cc7851bf6b2e13, type: 3}
       propertyPath: mapScenes.Array.data[2]
       value: HomeScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913732756590740306, guid: a6c4658d4d7e721449cc7851bf6b2e13, type: 3}
+      propertyPath: mapScenes.Array.data[3]
+      value: PubScene
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -943,7 +948,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
-  m_ScreenMatchMode: 0
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96

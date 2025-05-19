@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "CharacterEnergyModifier", menuName = "CharacterModifier/CharacterEnergyModifier")]
 public class CharacterEnergyModifierSO : CharacterStatModifier
 {
     public override void AffectCharacter(GameObject character, int val)

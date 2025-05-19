@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 public class FishingState : ThrowFishRod
 {
     public FishingState(PlayerControler controler, Direction direction) 

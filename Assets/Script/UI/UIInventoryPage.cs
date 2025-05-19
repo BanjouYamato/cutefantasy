@@ -1,6 +1,6 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -18,6 +18,8 @@ public class UIInventoryPage : MonoBehaviour
     UIUsingWeapon uIUsingWeapon;
     [SerializeField]
     Button exitBttn;
+    [SerializeField]
+    TextMeshProUGUI _goldTxt, _hpTxt, _energyTxt;
 
     List<UIInventoryItem> items = new List<UIInventoryItem>();
 
@@ -141,6 +143,9 @@ public class UIInventoryPage : MonoBehaviour
         gameObject.SetActive(true);
         ResetSelection();
         uIUsingWeapon.UpdateData();
+        _goldTxt.text = GameControler.Instance.gold.ToString();
+        _hpTxt.text = GameControler.Instance.runTimeData.stats.HP.ToString();
+        _energyTxt.text = GameControler.Instance.runTimeData.stats.energy.ToString();
     }
 
     public void ResetSelection()

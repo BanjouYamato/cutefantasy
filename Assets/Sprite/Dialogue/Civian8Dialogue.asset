@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55ffbccc4d33b242b8915db1a4afff3, type: 3}
+  m_Name: Civian8Dialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+    dialogueLines:
+    - character: {fileID: 11400000, guid: bc0537e67c759044eb2429a780525c73, type: 2}
+      line: A drink for the road? Or are you looking for a blade to fight beside
+        you?
+    - character: {fileID: 11400000, guid: 1180985d7ac5ae54681ef4ed19492984, type: 2}
+      line: "I\u2019m in need of a blade, but I can handle a drink or two."
+    - character: {fileID: 11400000, guid: bc0537e67c759044eb2429a780525c73, type: 2}
+      line: "A drink, eh? I\u2019d never turn one down. But when battle calls, my
+        blade is as sharp as ever."
+    - character: {fileID: 11400000, guid: 1180985d7ac5ae54681ef4ed19492984, type: 2}
+      line: "That\u2019s what I need. A sharp blade when it counts"
+    - character: {fileID: 11400000, guid: bc0537e67c759044eb2429a780525c73, type: 2}
+      line: "Then you\u2019ve found the right man. Let\u2019s get to it!"
+  featureName: 

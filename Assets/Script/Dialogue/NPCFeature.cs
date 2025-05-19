@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using System.Diagnostics;
 using UnityEngine;
 
 public class NPCFeature : MonoBehaviour
@@ -11,6 +8,9 @@ public class NPCFeature : MonoBehaviour
         {
             case GameConstant.NPC_FEATURES_SHOP:
                 Observer.Instance.Notify(GameConstant.NPC_FEATURES_SHOP);
+                break;
+            case GameConstant.NPC_FEATURES_SHOP_PARTNER:
+                Observer.Instance.Notify<bool>(GameConstant.NPC_FEATURES_SHOP_PARTNER, true);
                 break;
             default:
                 break;

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55ffbccc4d33b242b8915db1a4afff3, type: 3}
+  m_Name: Civian6Dialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+    dialogueLines:
+    - character: {fileID: 11400000, guid: 44093235b055c0c4694433abc152eef9, type: 2}
+      line: "I don\u2019t say much, but when I do, it means something. You need an
+        ally?"
+    - character: {fileID: 11400000, guid: 1180985d7ac5ae54681ef4ed19492984, type: 2}
+      line: Yes, I could use someone strong and silent. Are you willing to fight
+        beside me?
+    - character: {fileID: 11400000, guid: 44093235b055c0c4694433abc152eef9, type: 2}
+      line: "Fight I can do. But beware, I\u2019m not one for endless chatter."
+    - character: {fileID: 11400000, guid: 1180985d7ac5ae54681ef4ed19492984, type: 2}
+      line: "Silence is fine. As long as your axe speaks for you, that\u2019s all
+        I need."
+    - character: {fileID: 11400000, guid: 44093235b055c0c4694433abc152eef9, type: 2}
+      line: "Aye, the axe speaks loudest in battle. You\u2019ve got yourself a fighter."
+  featureName: 

@@ -1,6 +1,4 @@
-using BehaviorDesigner.Runtime.Tasks.Unity.UnityAnimator;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,6 +8,7 @@ public class GameControler : SingleTon<GameControler>
     public RunTimeData runTimeData;
     public bool isMainMapScene;
     public List<int> bossStatus = new List<int>();
+    public List<PartnerStats> partnerTraveler = new List<PartnerStats>();
     
     public List<string> loadedSceneList = new List<string>();
     bool isNewGame;
@@ -61,5 +60,13 @@ public class GameControler : SingleTon<GameControler>
     public bool IsBossDefeated(int bossID)
     {
         return bossStatus.Contains(bossID);
+    }
+    public void AddPartner(PartnerStats stats)
+    {
+        partnerTraveler.Add(stats);
+    }
+    public void RemovePartner(PartnerStats stats)
+    {
+        partnerTraveler.Remove(stats);
     }
 }

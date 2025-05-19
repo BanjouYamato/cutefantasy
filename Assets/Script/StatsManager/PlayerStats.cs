@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "PlayerStats", menuName = "BaseStats/PlayerStats")]
 public class PlayerStats : BaseStatSO
 {
     public int energy, maxEnergy, mana, maxMana;

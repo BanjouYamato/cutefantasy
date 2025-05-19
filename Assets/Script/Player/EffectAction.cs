@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class EffectAction : MonoBehaviour
@@ -102,5 +100,20 @@ public class EffectAction : MonoBehaviour
             return;
         }
         Observer.Instance.Notify<bool>(ObserverCostant.SAVE_GAME, true);
+    }
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, 1f);
+
+        Collider2D[] objects = Physics2D.OverlapCircleAll(transform.position, 1f, npcLayer);
+        foreach (Collider2D obj in objects)
+        {
+            Vector2 dirToObj = (obj.transform.position - transform.position).normalized;
+            float dot = Vector2.Dot(dirToObj, controler.PlayerMovement.VectorDirPlayer());
+
+            Gizmos.color = dot > 0.5f ? Color.green : Color.gray;
+            Gizmos.DrawLine(transform.position, obj.transform.position);
+        }
     }
 }

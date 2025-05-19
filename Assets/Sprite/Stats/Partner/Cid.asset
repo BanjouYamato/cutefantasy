@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8e8512d2d165c143ac425bc9ca49240, type: 3}
+  m_Name: Cid
+  m_EditorClassIdentifier: 
+  HP: 0
+  MaxHP: 15
+  speed: 3
+  partnerName: Cid
+  prefab: {fileID: 2526287629066331259, guid: cb8e5996ebe6923459186622b92d8479, type: 3}
+  price: 50
+  attack: 1
+  avatar: {fileID: -1080932071, guid: 1e0f0c0204b63fc409f9974d2ba7a2a5, type: 3}
+  range: 2.5
+  description: A gruff pilot and skilled lancer with dreams that reach the stars.

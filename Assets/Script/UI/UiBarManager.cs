@@ -1,20 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using DG.Tweening;
 
 public class UiBarManager : MonoBehaviour
 {
     Observer observer;
     [Header("Healh Bar")]
     [SerializeField]
-    RectTransform healtBar, healtContent;
+    Image healtContent;
     [Header("Mana Bar")]
     [SerializeField]
-    RectTransform manaBar, manaContent;
+    Image manaContent;
     [Header("Energy Bar")]
     [SerializeField]
-    RectTransform energytBar, energyContent;
+    Image energyContent;
 
+    const float performTime = 0.5f;
     private void Start()
     {
         observer = Observer.Instance;
@@ -25,18 +26,15 @@ public class UiBarManager : MonoBehaviour
 
     void UpdateHealtBar(float val)
     {
-        healtContent.sizeDelta = new Vector2(val * healtBar.sizeDelta.x
-            , healtContent.sizeDelta.y);
+        healtContent.DOFillAmount(val, performTime);
     }
     void UpdateManaBar(float val)
     {
-        manaContent.sizeDelta = new Vector2(val * manaBar.sizeDelta.x
-            , manaContent.sizeDelta.y);
+        manaContent.DOFillAmount(val, performTime);
     }
     void UpdateEnergyBar(float val)
     {
-        energyContent.sizeDelta = new Vector2(val * energytBar.sizeDelta.x
-            , energyContent.sizeDelta.y);
+        energyContent.DOFillAmount(val, performTime);
     }
     private void OnDestroy()
     {

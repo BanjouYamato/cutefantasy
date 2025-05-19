@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "EnemyStats", menuName = "BaseStats/PlayerStats")]   
 public class EnemyStats : ScriptableObject
 {
 

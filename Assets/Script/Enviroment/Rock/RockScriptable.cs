@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu (fileName = "Resource", menuName = "New Resource")]
+[CreateAssetMenu (fileName = "Rock", menuName = "Resource/Rock")]
 public class RockScriptable : ScriptableObject
 {
     public int MaxHP;

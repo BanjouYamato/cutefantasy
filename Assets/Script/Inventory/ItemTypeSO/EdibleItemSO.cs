@@ -1,9 +1,8 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "EdibleItem", menuName = "Inventory/Item/EdibleItem")]
 public class EdibleItemSO : ItemScriptable, IDestroyableItem, IItemAction
 {
     [SerializeField]

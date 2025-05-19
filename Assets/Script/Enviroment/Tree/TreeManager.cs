@@ -1,9 +1,6 @@
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-using Unity.VisualScripting.Antlr3.Runtime.Tree;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.Tilemaps;
 
 public class TreeManager : MonoBehaviour

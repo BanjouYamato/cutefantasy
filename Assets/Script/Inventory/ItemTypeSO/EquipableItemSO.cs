@@ -1,7 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
+[CreateAssetMenu(fileName = "EquipableItem", menuName = "Inventory/Item/EquipableItem")]
 public class EquipableItemSO : ItemScriptable, IDestroyableItem, IItemAction
 {
     public string ActionName => "Equip";

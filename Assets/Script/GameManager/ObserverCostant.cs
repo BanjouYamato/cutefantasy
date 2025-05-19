@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 public class ObserverCostant 
 {
     public static string SAVE_GAME = "SAVE_GAME";

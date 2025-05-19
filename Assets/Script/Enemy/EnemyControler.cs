@@ -1,11 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyControler : MonoBehaviour
 {
     [SerializeField]
     EnemyScriptable enemyInfo;
+
+    public EnemyManager _enemyManager;
 
     public EnemyScriptable EnemyInfo
     {

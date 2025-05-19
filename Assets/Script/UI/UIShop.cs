@@ -1,7 +1,5 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -30,8 +28,10 @@ public class UIShop : MonoBehaviour
     {
         Hide();
     }
-    public void InitializeShop(List<ItemScriptable> list)
+    public void Init(List<ItemScriptable> list)
     {
+        ClearShopData();
+
         for (int i = 0; i < list.Count; i++)
         {
             UIShopSlot uIShopSlot = Instantiate(shopSlot, Vector3.zero, Quaternion.identity);
@@ -44,7 +44,14 @@ public class UIShop : MonoBehaviour
             //uIShopSlot.OnClickItemBuy += HandleBuyItem;
         }
     }
-
+    void ClearShopData()
+    {
+        foreach (Transform item in contentShop)
+        {
+            Destroy(item.gameObject);
+        }
+        items.Clear();
+    }
     private void HandleBuyItem(UIShopSlot slot)
     {
         buyDisplay.Toggle(true);
@@ -88,7 +95,7 @@ public class UIShop : MonoBehaviour
     {
         DeselectAllItems();
         int index = items.IndexOf(item);
-        if (index == -1) 
+        if (index == -1)
             return;
         items[index].Select();
     }
@@ -96,7 +103,7 @@ public class UIShop : MonoBehaviour
     private void HandleSellItem(UIInventoryShop item)
     {
         int index = items.IndexOf(item);
-        if (index == -1) 
+        if (index == -1)
             return;
         onItemSellRequested?.Invoke(index);
     }

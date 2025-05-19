@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 public enum Direction
 {
@@ -20,11 +19,12 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         input = InputManager.Instance;
+        controler = GetComponent<PlayerControler>();
 
     }
     private void Start()
     {
-        controler = GetComponent<PlayerControler>();
+        
         if (transform.position.z != 0)
             transform.position = new Vector3(transform.position.x, transform.position.y, 0);
     }

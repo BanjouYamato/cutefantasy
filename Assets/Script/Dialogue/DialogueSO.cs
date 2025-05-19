@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -15,7 +14,7 @@ public class Dialogue
 {
     public List<DialogueLine> dialogueLines = new List<DialogueLine>();
 }
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "Dialogue", menuName = "UI/Dialogue/DialogueText")]
 public class DialogueSO : ScriptableObject
 {
     public Dialogue dialogue;

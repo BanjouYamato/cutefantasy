@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 12
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -463,9 +463,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 192
+        y: 240
         width: 14
-        height: 63
+        height: 15
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1661,7 +1661,7 @@ TextureImporter:
         serializedVersion: 2
         x: 32
         y: 0
-        width: 32
+        width: 16
         height: 11
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -1684,8 +1684,8 @@ TextureImporter:
         y: 224
         width: 14
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1705,8 +1705,8 @@ TextureImporter:
         y: 208
         width: 14
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1726,8 +1726,8 @@ TextureImporter:
         y: 192
         width: 13
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1735,6 +1735,90 @@ TextureImporter:
       bones: []
       spriteID: 618103a2474126449a610acd87441437
       internalID: 619647671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b754832918a10499d7493bb8a9b29b
+      internalID: -636335566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f661292f02e427478f63e1ee834ab5a
+      internalID: 884951750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee466ed501f81374fb5777fa924b02df
+      internalID: -514789484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5605373b6d2b40b11679799f53d9a
+      internalID: 27142703
       vertices: []
       indices: 
       edges: []
@@ -1825,7 +1909,11 @@ TextureImporter:
       Bombschroom_74: -1596624387
       Bombschroom_75: 1174281975
       Bombschroom_76: 619647671
+      Bombschroom_77: -636335566
+      Bombschroom_78: 884951750
+      Bombschroom_79: -514789484
       Bombschroom_8: -1035468755
+      Bombschroom_80: 27142703
       Bombschroom_9: 851763473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
